@@ -1,0 +1,11 @@
+HUGO site notes
+- hugo new posts/new-post.md (new-post is file name and title)
+- hugo serve (runs local host)
+- hugo build (run before deploy to netlify?)
+
+- hugo docs:https://gohugo.io/getting-started/quick-start/
+
+TODO
+- more styling; match branding
+- add tagline
+- add about page

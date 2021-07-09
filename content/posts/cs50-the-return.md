@@ -1,27 +1,27 @@
 ---
 title: "CS50: The Return"
-date: 2021-07-06T20:29:21-07:00
+date: 2021-07-08T19:30:00-07:00
 ---
 
-Welcome first post! 
+Hey, first post! 
 
-
-This here is my tracking of restarting CS50 for the.. third time? Last two I was woefully unprepared and no patience with my self and rage quitted.
-
+First week into restarting CS50 for the... third time? Last two times I was woefully unprepared and had limited patience with my self and rage quitted barely through the first week. Things have changed.
 <!--more-->
+Flast forward a cuople of years and revising my career and coding goals, they align even closer to this course of learning through the intro and web expasion, a total of 18 weeks. Those goals, you ask? I wanted to get some more computer science (CS) fundamentals under my belt, expand my JavaScript knowledge, practice Python and introduce more database and framework projects. Ideally, I'd like to work into fullstack web development or software engineering. 
 
- Now a couple years later I see my end goals of learning align with the intro and web expansion, we’re jumping in again! Those goals you ask? I’d like to get some CS fundamentals, hone JavaScript through this course, and get some more Python experience. 
+As a slightly impatient visual learner, I already did a goof and thought just reading the course notes on the web would get me by. Wrong. The lectures may be a tad long, but they, get this, _interactively, visually_ explain some example programs that are useful for future labs and problem sets. Who'd have thought?
 
-With these languages and the curriculum I can flex into web development and software work with the practice sets and projects upcoming. From there, I have a background in front end design and development so i’m documenting how a visual type person like myself can trudge through this and hope to help another out there through it too. 
+One way I liked to work through previous algorithm problems was write it out on paper and explain each step to myself in a way that made sense to me, like so...
 
-Week 1! it’s done! Felt quite accomplished, I don’t think I even got past the first pset for that week ever, so I was pretty stoked. I thought I could get by with just the page notes but no, the lecture REALLY helps explain things, seems like a dumb thing to say but here I am being impatient again. 
+ ![notebook page of notes](/images/wk1-notes2.jpg)
+ _yes, it's blurry, shhhh.._
 
-Onto week 2 and did the lab, and I see oh yea it’s already more difficult, but things are slowly clicking. Use the resources given to you! (I understand what needed to happen with scrabble but there was one missing piece that is not explicit and found a youtube vid (link) that reaaaaaaaaly helped. 
+I've already gotten past the bump of week 1 and was quite stoked about it since I had quit before that time in the past! I'm already chugging along to week two and seeing it will be getting steadily harder each week (duh). With my previous knowledge of JavaScript, it's easier to explain or understand some concepts, but some are just not the same, ha! One part of a problem set, I knew how to write out the loop in JavaScript and then converted to C :D I've gotten a little more comfortable with C and haven't done that since. 
 
-What have I been doing so far; 
-1. have a specific note book of code notes, etc from lecture
-2. if something warrants a walk through to reference ill write it out and explain each step numbered on paper
-3. check list for submission to get that serotonin rush
-4. scan the discord channels for possible hints/not the answer
-5. google google google (also hints, not the answer unless im super stuck)
-6. repeat 2 for labs/psets
+ ![notebook page of notes](/images/wk1-notes.jpg)
+
+The great thing about CS50 is the enormous community surrounding it, I've already joined the Reddit group, discord and googling help (not exact solutions) on the web makes it easier to have concepts click. There was one YouTube video I found helped _a lot_ with understanding the Scrabble problem too and notated the 'why' in my notebook. I haven't jumped into the Discord too often, but may jump in to help others at a later time or get some hints along the way. 
+
+Anywho, on to week two!
+
+-- H

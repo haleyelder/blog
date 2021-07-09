@@ -4,8 +4,22 @@ HUGO site notes
 - hugo build (run before deploy to netlify?)
 
 - hugo docs:https://gohugo.io/getting-started/quick-start/
+- place <!--more--> in content for truncated summary
 
 TODO
 - more styling; match branding
 - add tagline
-- add about page
+
+FLOW:
+- create markdown page, preformat
+- post to personal twitter? maybe second
+- post to instagram? link to personal or alt twitter... (add connection later?)
+    -- build up instagram...
+
+-----------------------------
+BLOG POST OR about extention
+DAYDREAM TYPE ROLES AND GOALS: 
+
+My daydream thoughts about this: 
+- eventually work on something or a project that helps with environmental conservation/biomedical/medical/something that helps people or the earth
+- follow the community and give back in the end I hope; practice being nicer to self about learning, impatience types, imposter syndrome, etc

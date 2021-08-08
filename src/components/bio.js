@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong>; more <a href="https://craft-and-code.netlify.com/about-this-bloghttp://craft-and-code.netlify.com/about-this-blog">about this blog</a> // 
+          Written by <strong>{author.name}</strong>; more <a href="https://craft-and-code.netlify.com/about-this-blog">about this blog</a> // 
           {' '}
           <a href="https://www.twitter.com/haley_elder">Twitter</a> //
           {' '}

@@ -44,11 +44,12 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong>; more <a href="https://craft-and-code.netlify.com/about-this-blog">about this blog</a> // 
+          Written by <strong>{author.name}</strong>, a front end web developer learning computer science concepts from Harvard's <a href="https://cs50.harvard.edu/x/2021/" target="_blnak">CS50 course</a>; more <a href="https://craft-and-code.netlify.com/about-this-blog">about this blog &gt;&gt;</a> 
           {' '}
-          <a href="https://www.twitter.com/haley_elder">Twitter</a> //
+          <hr></hr>
+          Connect with me on <a href="https://www.twitter.com/haley_elder">Twitter &gt;&gt;</a> //
           {' '}
-          <a href="https://haleyelder.com">Website</a>
+          More on my <a href="https://haleyelder.com">Website &gt;&gt;</a>
         </p>
       )}
     </div>

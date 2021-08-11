@@ -356,3 +356,7 @@ a {
 .post-list-item h2 {
   color: white !important;
 }
+
+.gatsby-resp-image-wrapper {
+  width: 65%;
+}

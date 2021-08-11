@@ -1,6 +1,6 @@
 ---
 title: About this Blog
-date: "2021-07-01T22:12:03.284Z"
+date: "2021-07-01T20:12:03.284Z"
 description: tl;dr Front end web developer sharing their journey through an intro to computer science course and some crafty projects updates.
 ---
 

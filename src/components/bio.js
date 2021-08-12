@@ -32,16 +32,6 @@ const Bio = () => {
 
   return (
     <div className="bio">
-      <StaticImage
-        className="bio-avatar"
-        layout="fixed"
-        formats={["AUTO", "WEBP", "AVIF"]}
-
-        width={50}
-        height={50}
-        quality={95}
-        alt="Profile picture"
-      />
       {author?.name && (
         <p>
           Written by <strong>{author.name}</strong>, a front end web developer learning computer science concepts from Harvard's <a href="https://cs50.harvard.edu/x/2021/" target="_blnak">CS50 course</a>; more <a href="https://craft-and-code.netlify.com/about-this-blog">about this blog &gt;&gt;</a> 

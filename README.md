@@ -1,4 +1,4 @@
-## Craft && Code blog -- https://craft-and-code.netlify.com/
+## Craft && Code blog -- https://craft-and-code.netlify.app
 written by Haley Elder using Gatsby
 
 

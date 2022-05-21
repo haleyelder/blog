@@ -1,5 +1,5 @@
 ---
-title: 2022: New Year && Goals
+title: 2022, New Year && Goals
 date: "2022-01-10T20:12:03.284Z"
 description: This is the year, I can feel it. Making smaller (ish) goals and sticking to them
 ---

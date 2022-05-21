@@ -9,6 +9,7 @@ module.exports = {
     social: {
       twitter: `haley_elder`,
     },
+    plugins: ['gatsby-plugin-netlify'],
   },
   plugins: [
     `gatsby-plugin-image`,

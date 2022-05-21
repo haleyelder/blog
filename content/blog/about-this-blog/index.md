@@ -1,29 +1,26 @@
 ---
 title: About this Blog
-date: "2021-07-01T20:12:03.284Z"
-description: tl;dr Front end web developer sharing their journey through an intro to computer science course and some crafty projects updates.
+date: "2022-05-17T20:12:03.284Z"
+description: tl;dr Front end web developer sharing their journey through ongoing learning, crafty projects, and whatever else!
 ---
 
 ## Hi, hello!
 
 Craft AND Code, huh? 
 
-> tl;dr Front end web developer sharing their journey through an intro to computer science course and some crafty projects updates. 
+> tl;dr Front end web developer sharing their journey through ongoing learning, crafty projects, and whatever else!
 
 --------------
 
 ### **The code part** 
 
-Currently, I practice web development in my free time with a focus on front end with a little taste of fullstack JavaScript projects, I also want to expand into more Python programming.
+Currently, I am ongoing learning and working on web development projects for practice for a fulltime fullstack role. My first language was diving into JavaScript, some front end, and now adding in some Python.
 
-I've attempted this free course, [CS50](https://cs50.harvard.edu/x/2021/) - Intro to Computer Science, offered by Harvard through Edx at least twice now, so third time getting through might be the charm. The code portion will be reflecting and documenting my review of wokring through the problems and projects.
+This blog initially was covering the course [CS50](https://cs50.harvard.edu/x/2021/) - Intro to Computer Science, but fell off that wagon last summer. They have a completely new course for [Python specifically](https://cs50.harvard.edu/python/2022/). Code updates here will be reflecting on the problem sets and what I have learned so far.
 
 But _why_...
 
-My current career goal is to be hired as a web developer/software engineer (the titles are sometimes vague so I used both), where I've gone through a few free learning platforms (freeCodeCamp, Codecademy, The Odin Project, etc), I wanted to explore some more computer science fundamentals i.e. what it could have looked like if I went back to school for this. 
-
-CS50 starts with C programming and CS basics, then into JavaScript and Python with a web extension that matches my current career track aspirations. The course is structured into 10 weeks for the intro "base" portion and a specific 8 week web track I will be continuing after the first is done. 
-
+My current career goal and adjustment is to be hired as a web developer/software engineer (the titles are sometimes vague so I used both), where I've gone through a few free learning platforms (freeCodeCamp, Codecademy, The Odin Project, etc), I have had my eye on the CS50 group of courses for quite some time now.
 
 ### **The crafty part**
 When I'm not coding, I like to create and crafting other things! To keep my fidgety hands still, I like to knit, sew, and cross stitch. These updates will probably be a bit more spare but, but I want to share coders can have creative hobbies too :)

@@ -5,8 +5,6 @@ description: Recapping weeks 0 to 2 for Harvard's CS50P course (intro to program
 ---
 Github tracking repo -- [here](https://github.com/haleyelder/cs50)
 
-Crossposted on my blog Craft && Code -- [here](https://craft-and-code.netlify.app/)
-
 I might've fallen into shiny object syndrome once more, but I’m feeling a bit more confident in this one! I had attempted CS50 last summer and fall but eventually dropped it; I thought I was understanding enough but didn’t seem quite relevant at the time and my confidence fell flat. Winter had a bit of downtime and worked on a separate project ([watchlist data analysis](https://watchlist-data-analysis.netlify.app)) to freshen up some React skills. 
 
 Fast forward to this year, specifically April 1st, [CS50P](https://cs50.harvard.edu/python/2022/) (Intro to programming with python) was released and I started it about a month after it was released. I was surprised how much of the basics I could recall from last fall. I finished the first three weeks of course work in a week and a half!

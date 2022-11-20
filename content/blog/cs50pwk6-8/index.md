@@ -5,7 +5,6 @@ description: Recapping weeks 6 to 8 for Harvard's CS50P course (intro to program
 ---
 
 Github tracking repo -- [here](https://github.com/haleyelder/cs50)
-Crossposted on my blog Craft && Code -- [here](https://craft-and-code.netlify.app/)
 
 It’s here, I’ve made it! Honestly, this is one of the first courses I have started and just about to complete since learning to code years ago (yes really); I definitely fall for “shiny object syndrome” and would get easily distracted. This one definitely made an impression and kept me engaged for this long. This last recap does not include final project notes quite yet (one last post) and is the last third of CS50P now that I’ve submitted all problem sets (41!). 
 
